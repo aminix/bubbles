@@ -1,0 +1,19 @@
+.menu {
+    float: left;
+    width: 200px;
+    padding: 20px;
+    position: fixed;
+	height: 100%;
+	top: 0;
+	border-right: solid;
+	background-color: ghostwhite;
+}
+.svg-content {
+	background-color: antiquewhite;
+    margin: 0 0 0 200px;
+}
+
+.submit {
+	margin-top: 10px;
+	float: right;
+}

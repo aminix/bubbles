@@ -1,0 +1,11 @@
+{
+  "name": "bubbles-client",
+  "description": "Bubbles!",
+  "devDependencies": {
+    "phantomjs": "*",
+    "karma": "*",
+    "karma-junit-reporter": "*",
+    "karma-jasmine": "*",
+    "karma-ng-scenario": "*"
+  }
+}
